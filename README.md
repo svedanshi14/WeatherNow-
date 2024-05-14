@@ -4,7 +4,5 @@ Tech Stack :- HTML, CSS, JAVASCRIPT
 
 API used :- [Open Weather](https://openweathermap.org/api)
 
-### Contribute under SSOC 
-
 [!Screenshot](Screenshot1.png)
 [!Screenshot](Screenshot2.png)
